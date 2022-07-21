@@ -214,3 +214,5 @@ Agregamos este contenido al archivo :
 [Greeter]
 ```
 Al insertar imagenes deben ser guardadas en /usr/share/pixmaps/
+
+## UNA VEZ INSTALADO LA BASE COPIA Y PEGA CARPETAS A TU .config
