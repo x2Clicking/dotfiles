@@ -1,0 +1,18 @@
+colors:
+  primary:
+    background: '#1b1b1f'
+    foreground: '0xc5c9de'
+font:
+  bold:
+    family: JetBrainsMono NF
+  italic:
+    family: JetBrainsMono NF
+  normal:
+    family: JetBrainsMono NF
+    style: Regular
+  size: 14
+window:
+  opacity: 0.9
+  padding:
+    x: 20
+    y: 15

@@ -1,0 +1,8 @@
+configuration {
+    drun-display-format: "{icon} {name}";
+    font : "Agave Nerd Font 16";
+    show-icons: true;
+}
+
+//@theme "/usr/share/rofi/themes/Paper.rasi"
+@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
